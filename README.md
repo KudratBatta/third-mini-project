@@ -1,1 +1,1 @@
-# third-mini-project
+# Subset Sum Problem
